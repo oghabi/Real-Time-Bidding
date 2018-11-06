@@ -37,6 +37,6 @@ The dataset is the [iPinYou Dataset](http://data.computational-advertising.org/)
 
 
 ## Results
-[Report 2](https://github.com/oghabi/Real-Time-Bidding/blob/master/Report%201.pdf) reports the statistics and an analysis of the dataset. It also compares different machine learning CTR (click-through rate) prediction models and compares linear and non-linear bidding strategies. The evaluations are done on the test set.
+[Report 2](https://github.com/oghabi/Real-Time-Bidding/blob/master/Report%201.pdf) is a statistical of the dataset. It also compares the various implemented machine learning CTR (click-through rate) prediction models and compares linear and non-linear bidding strategies. The evaluations are done on the test set.
 
 [Report 1](https://github.com/oghabi/Real-Time-Bidding/blob/master/Report%202.pdf) reports a more complex CTR prediction model (AUROC of 88%) and bidding strategy which yields better results. The evaluations are done on the test set.
